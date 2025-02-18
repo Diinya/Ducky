@@ -1,0 +1,29 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-image: linear-gradient(to bottom right, white,  pink 40%, rgb(155, 49, 155) 95%);
+    min-height: 100vh;
+    
+}
+#image {
+    
+    width: 100vw;
+    height: auto;
+    overflow: visible;
+    text-align: center;
+    
+}
+#image img {
+    
+    width: 30%;
+    height: 30%;
+}
