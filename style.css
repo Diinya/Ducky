@@ -12,6 +12,7 @@
     margin: auto;
     background-image: linear-gradient(to bottom right, white,  pink 40%, rgb(155, 49, 155) 95%);
     min-height: 100vh;
+    overflow: hidden;
     
 }
 #image {
